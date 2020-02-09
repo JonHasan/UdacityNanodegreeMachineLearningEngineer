@@ -14,3 +14,4 @@ To install these libraries in windows simply type the following into the termina
 
 pip install libary_name 
 
+For the sake of saving time, the original azdias and customers datase will not be added as the preprocessing steps take a long time to perform. Instead, the optimized datasets will be added to the github to download so that one may start from part 1, which is the customer segmentation report. 
