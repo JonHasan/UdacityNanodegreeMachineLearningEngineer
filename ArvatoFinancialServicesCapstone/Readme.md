@@ -2,9 +2,11 @@ This is the repository for my development of the machine learning capstone proje
 what could be accomplished and thus the subsequent report details how the goal has changed as a result of performing the analysis and model training. 
 
 The arvato financial services project tasked me with trying to perform customer segmentation to see which group of people are most likely 
-to become customers so that they can be targeted for a marketing campaign. 
+to become customers so that they can be targeted for a marketing campaign. The heatmaps were too large to add to the report so they are added as pdf files. 
 
-The next part was to create an unsupervised model from the train set so that predictions could be made on the test set. 
+The next part was to create an unsupervised model from the train set and to see how it performed on itself. 
+
+Finally the supervised model was deployed on a train set with the response column being withheld to see how the model performs. These predictions were then submitted to a kaggle competition. 
 
 There are many libraries being used for this project. 
 
